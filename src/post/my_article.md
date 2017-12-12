@@ -1,7 +1,7 @@
 ---
 title: "天气好冷，想买衣服啦"
 author: "dev-tang"
-template: "_post/article"
+template: "post/article"
 ---
 
 # 天气好冷，想买衣服啦

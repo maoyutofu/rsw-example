@@ -1,6 +1,6 @@
 ---
 title: 这么好的天气怎能不喝酒
-template: "_post/article"
+template: "post/article"
 ---
 
 # 这么好的天气怎能不喝酒
